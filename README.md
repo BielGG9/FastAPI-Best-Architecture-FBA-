@@ -6,7 +6,7 @@ Este projeto adere fortemente aos padrões da **FastAPI Best Architecture (FBA)*
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **[FastAPI](https://fastapi.tiangolo.com/):** Framework web moderno e rápido para a construção de APIs.
 - **[SQLModel](https://sqlmodel.tiangolo.com/):** Ferramenta para iteração com banco de dados em Python, unindo SQLAlchemy e Pydantic.
@@ -17,7 +17,7 @@ Este projeto adere fortemente aos padrões da **FastAPI Best Architecture (FBA)*
 
 ---
 
-## 🏗️ Arquitetura do Projeto (FastAPI Best Architecture)
+## Arquitetura do Projeto (FastAPI Best Architecture)
 
 O projeto está dividido em camadas com responsabilidades bem definidas (Domain-Driven Design / N-Tier Architecture):
 
@@ -77,7 +77,7 @@ O servidor estará disponível em: [http://localhost:8000](http://localhost:8000
 
 ---
 
-## 📚 Documentação da API (Swagger UI)
+## Documentação da API (Swagger UI)
 
 A FastAPI gera automaticamente uma documentação OpenAPI/Swagger. Com o servidor rodando, você pode acessá-la via navegador:
 
@@ -90,7 +90,7 @@ Na interface visual, você pode testar todas as rotas (POST, GET, PUT, DELETE) c
 
 ---
 
-## 🛑 Parando a Execução
+## Parando a Execução
 
 Para parar os serviços do docker sem apagar os dados:
 ```bash
